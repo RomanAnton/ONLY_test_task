@@ -1,0 +1,29 @@
+.blocks {
+    display: flex;
+    font-size: 20px;
+}
+
+.fblock {
+    display: block;
+    background-color: red;
+    width: 50%;
+    margin-right: 30px;
+}
+
+.sblock {
+    display: block;
+    background-color: green;
+    width: 50%;
+}
+
+.sblock ul li {
+    list-style-type: none;
+}
+
+.sblock a {
+    margin-left: 50%;
+}
+
+button {
+    margin-top: 5px;
+}
